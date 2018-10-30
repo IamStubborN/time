@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "latest",
+    "react-scripts": "^2.1.0",
     "awesomplete": "latest",
     "geonames.js": "latest",
     "moment": "latest"
