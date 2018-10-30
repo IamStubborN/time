@@ -1,0 +1,5534 @@
+[
+  {
+    "region_id": "4312",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Москва и Московская обл."
+  },
+  {
+    "region_id": "4925",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Санкт-Петербург и область"
+  },
+  {
+    "region_id": "1998532",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Адыгея"
+  },
+  {
+    "region_id": "3160",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Алтайский край"
+  },
+  {
+    "region_id": "3223",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Амурская обл."
+  },
+  {
+    "region_id": "3251",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Архангельская обл."
+  },
+  {
+    "region_id": "3282",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Астраханская обл."
+  },
+  {
+    "region_id": "3296",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Башкортостан (Башкирия)"
+  },
+  {
+    "region_id": "3352",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Белгородская обл."
+  },
+  {
+    "region_id": "3371",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Брянская обл."
+  },
+  {
+    "region_id": "3407",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Бурятия"
+  },
+  {
+    "region_id": "3437",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Владимирская обл."
+  },
+  {
+    "region_id": "3468",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Волгоградская обл."
+  },
+  {
+    "region_id": "3503",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Вологодская обл."
+  },
+  {
+    "region_id": "3529",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Воронежская обл."
+  },
+  {
+    "region_id": "3630",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Дагестан"
+  },
+  {
+    "region_id": "3673",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Еврейская обл."
+  },
+  {
+    "region_id": "3675",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ивановская обл."
+  },
+  {
+    "region_id": "3703",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Иркутская обл."
+  },
+  {
+    "region_id": "3751",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Кабардино-Балкария"
+  },
+  {
+    "region_id": "3761",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Калининградская обл."
+  },
+  {
+    "region_id": "3827",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Калмыкия"
+  },
+  {
+    "region_id": "3841",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Калужская обл."
+  },
+  {
+    "region_id": "3872",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Камчатская обл."
+  },
+  {
+    "region_id": "3892",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Карелия"
+  },
+  {
+    "region_id": "3921",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Кемеровская обл."
+  },
+  {
+    "region_id": "3952",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Кировская обл."
+  },
+  {
+    "region_id": "3994",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Коми"
+  },
+  {
+    "region_id": "4026",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Костромская обл."
+  },
+  {
+    "region_id": "4052",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Краснодарский край"
+  },
+  {
+    "region_id": "4105",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Красноярский край"
+  },
+  {
+    "region_id": "4176",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Курганская обл."
+  },
+  {
+    "region_id": "4198",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Курская обл."
+  },
+  {
+    "region_id": "4227",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Липецкая обл."
+  },
+  {
+    "region_id": "4243",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Магаданская обл."
+  },
+  {
+    "region_id": "4270",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Марий Эл"
+  },
+  {
+    "region_id": "4287",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Мордовия"
+  },
+  {
+    "region_id": "4481",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Мурманская обл."
+  },
+  {
+    "region_id": "3563",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Нижегородская (Горьковская)"
+  },
+  {
+    "region_id": "4503",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Новгородская обл."
+  },
+  {
+    "region_id": "4528",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Новосибирская обл."
+  },
+  {
+    "region_id": "4561",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Омская обл."
+  },
+  {
+    "region_id": "4593",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Оренбургская обл."
+  },
+  {
+    "region_id": "4633",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Орловская обл."
+  },
+  {
+    "region_id": "4657",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Пензенская обл."
+  },
+  {
+    "region_id": "4689",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Пермская обл."
+  },
+  {
+    "region_id": "4734",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Приморский край"
+  },
+  {
+    "region_id": "4773",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Псковская обл."
+  },
+  {
+    "region_id": "4800",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ростовская обл."
+  },
+  {
+    "region_id": "4861",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Рязанская обл."
+  },
+  {
+    "region_id": "4891",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Самарская обл."
+  },
+  {
+    "region_id": "4969",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Саратовская обл."
+  },
+  {
+    "region_id": "5011",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Саха (Якутия)"
+  },
+  {
+    "region_id": "5052",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Сахалин"
+  },
+  {
+    "region_id": "5080",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Свердловская обл."
+  },
+  {
+    "region_id": "5151",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Северная Осетия"
+  },
+  {
+    "region_id": "5161",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Смоленская обл."
+  },
+  {
+    "region_id": "5191",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ставропольский край"
+  },
+  {
+    "region_id": "5225",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Тамбовская обл."
+  },
+  {
+    "region_id": "5246",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Татарстан"
+  },
+  {
+    "region_id": "3784",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Тверская обл."
+  },
+  {
+    "region_id": "5291",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Томская обл."
+  },
+  {
+    "region_id": "5312",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Тува (Тувинская Респ.)"
+  },
+  {
+    "region_id": "5326",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Тульская обл."
+  },
+  {
+    "region_id": "5356",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Тюменская обл."
+  },
+  {
+    "region_id": "5404",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Удмуртия"
+  },
+  {
+    "region_id": "5432",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ульяновская обл."
+  },
+  {
+    "region_id": "5458",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Уральская обл."
+  },
+  {
+    "region_id": "5473",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Хабаровский край"
+  },
+  {
+    "region_id": "2316497",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Хакасия"
+  },
+  {
+    "region_id": "2499002",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ханты-Мансийский АО"
+  },
+  {
+    "region_id": "5507",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Челябинская обл."
+  },
+  {
+    "region_id": "5543",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Чечено-Ингушетия"
+  },
+  {
+    "region_id": "5555",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Читинская обл."
+  },
+  {
+    "region_id": "5600",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Чувашия"
+  },
+  {
+    "region_id": "2415585",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Чукотский АО"
+  },
+  {
+    "region_id": "5019394",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ямало-Ненецкий АО"
+  },
+  {
+    "region_id": "5625",
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Ярославская обл."
+  },
+  {
+    "region_id": "5",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Виктория"
+  },
+  {
+    "region_id": "16",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Западная Австралия"
+  },
+  {
+    "region_id": "23",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Кинсленд"
+  },
+  {
+    "region_id": "35",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Новый Южный Уэльс"
+  },
+  {
+    "region_id": "51",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Северная Территория"
+  },
+  {
+    "region_id": "54",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Тасмания"
+  },
+  {
+    "region_id": "58",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Территория Федеральной столицы"
+  },
+  {
+    "region_id": "60",
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Южная Австралия"
+  },
+  {
+    "region_id": "277659",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Австрия"
+  },
+  {
+    "region_id": "64",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Вена"
+  },
+  {
+    "region_id": "66",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Верхняя Австрия"
+  },
+  {
+    "region_id": "70",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Зальцбург"
+  },
+  {
+    "region_id": "72",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Каринтия"
+  },
+  {
+    "region_id": "75",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Нижняя Австрия"
+  },
+  {
+    "region_id": "77",
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Штирия"
+  },
+  {
+    "region_id": "82",
+    "country_id": "81",
+    "city_id": "0",
+    "name": "Азербайджан"
+  },
+  {
+    "region_id": "164",
+    "country_id": "81",
+    "city_id": "0",
+    "name": "Нагорный Карабах"
+  },
+  {
+    "region_id": "167",
+    "country_id": "81",
+    "city_id": "0",
+    "name": "Нахичеванская обл."
+  },
+  {
+    "region_id": "174",
+    "country_id": "173",
+    "city_id": "0",
+    "name": "Anguilla"
+  },
+  {
+    "region_id": "178",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Буэнос-Айрес"
+  },
+  {
+    "region_id": "194",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Жужуй"
+  },
+  {
+    "region_id": "196",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Катамарка"
+  },
+  {
+    "region_id": "198",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Кордоба"
+  },
+  {
+    "region_id": "204",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Корриентес"
+  },
+  {
+    "region_id": "207",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Ла-Пампа"
+  },
+  {
+    "region_id": "210",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Ла-Риоха"
+  },
+  {
+    "region_id": "212",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Мендоса"
+  },
+  {
+    "region_id": "215",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Мисьонес"
+  },
+  {
+    "region_id": "217",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Неукен"
+  },
+  {
+    "region_id": "219",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Сальта"
+  },
+  {
+    "region_id": "221",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Сан-Луис"
+  },
+  {
+    "region_id": "223",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Сан-Хуан"
+  },
+  {
+    "region_id": "225",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Санта-Крус"
+  },
+  {
+    "region_id": "227",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Санта-Фе"
+  },
+  {
+    "region_id": "230",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Сантьяго-дель-Эстеро"
+  },
+  {
+    "region_id": "232",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Тукуман"
+  },
+  {
+    "region_id": "234",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Формоса"
+  },
+  {
+    "region_id": "236",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Чако"
+  },
+  {
+    "region_id": "239",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Чубут"
+  },
+  {
+    "region_id": "241",
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Энтре-Риос"
+  },
+  {
+    "region_id": "277654",
+    "country_id": "245",
+    "city_id": "0",
+    "name": "Армения"
+  },
+  {
+    "region_id": "246",
+    "country_id": "245",
+    "city_id": "0",
+    "name": "Ереванская область"
+  },
+  {
+    "region_id": "7716133",
+    "country_id": "7716093",
+    "city_id": "0",
+    "name": "Арулько"
+  },
+  {
+    "region_id": "249",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Брестская обл."
+  },
+  {
+    "region_id": "272",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Витебская обл."
+  },
+  {
+    "region_id": "304",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Гомельская обл."
+  },
+  {
+    "region_id": "330",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Гродненская обл."
+  },
+  {
+    "region_id": "349",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Минская обл."
+  },
+  {
+    "region_id": "377",
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Могилевская обл."
+  },
+  {
+    "region_id": "402",
+    "country_id": "401",
+    "city_id": "0",
+    "name": "Belize"
+  },
+  {
+    "region_id": "405",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Антверпен"
+  },
+  {
+    "region_id": "277662",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Бельгия"
+  },
+  {
+    "region_id": "408",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Брюссель"
+  },
+  {
+    "region_id": "410",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Восточная Фландрия"
+  },
+  {
+    "region_id": "413",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Западная Фландрия"
+  },
+  {
+    "region_id": "417",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Лимбург"
+  },
+  {
+    "region_id": "419",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Льеж"
+  },
+  {
+    "region_id": "422",
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Эно"
+  },
+  {
+    "region_id": "426",
+    "country_id": "425",
+    "city_id": "0",
+    "name": "Hamilton"
+  },
+  {
+    "region_id": "277660",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Болгария"
+  },
+  {
+    "region_id": "429",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Бургас"
+  },
+  {
+    "region_id": "431",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Варна"
+  },
+  {
+    "region_id": "433",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Великотырново"
+  },
+  {
+    "region_id": "436",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Видин"
+  },
+  {
+    "region_id": "438",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Габрово"
+  },
+  {
+    "region_id": "440",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Пазарджик"
+  },
+  {
+    "region_id": "442",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Перник"
+  },
+  {
+    "region_id": "444",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Плевен"
+  },
+  {
+    "region_id": "446",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Пловдив"
+  },
+  {
+    "region_id": "449",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Русе"
+  },
+  {
+    "region_id": "451",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Силистра"
+  },
+  {
+    "region_id": "453",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Сливен"
+  },
+  {
+    "region_id": "455",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "София град"
+  },
+  {
+    "region_id": "457",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Стара Загора"
+  },
+  {
+    "region_id": "460",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Хасково"
+  },
+  {
+    "region_id": "463",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Шумен"
+  },
+  {
+    "region_id": "465",
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Ямбол"
+  },
+  {
+    "region_id": "468",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Акри"
+  },
+  {
+    "region_id": "470",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Алагоас"
+  },
+  {
+    "region_id": "473",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Амазонас"
+  },
+  {
+    "region_id": "475",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Амапа"
+  },
+  {
+    "region_id": "477",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Баия"
+  },
+  {
+    "region_id": "490",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Гояс"
+  },
+  {
+    "region_id": "493",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Мараньян"
+  },
+  {
+    "region_id": "497",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Мату-Гросу"
+  },
+  {
+    "region_id": "499",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Мату-Гросу-ду-Сул"
+  },
+  {
+    "region_id": "503",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Минас-Жерайс"
+  },
+  {
+    "region_id": "521",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Пара"
+  },
+  {
+    "region_id": "524",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Параиба"
+  },
+  {
+    "region_id": "527",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Парана"
+  },
+  {
+    "region_id": "533",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Пернамбуку"
+  },
+  {
+    "region_id": "539",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Пиауи"
+  },
+  {
+    "region_id": "542",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Рио-де-Жанейро"
+  },
+  {
+    "region_id": "550",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Риу-Гранди-ду-Норти"
+  },
+  {
+    "region_id": "554",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Риу-Гранди-ду-Сул"
+  },
+  {
+    "region_id": "568",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Рондония"
+  },
+  {
+    "region_id": "570",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Сан-Паулу"
+  },
+  {
+    "region_id": "595",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Санта-Катарина"
+  },
+  {
+    "region_id": "603",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Сеара"
+  },
+  {
+    "region_id": "609",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Сержипи"
+  },
+  {
+    "region_id": "611",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Федеральный округ"
+  },
+  {
+    "region_id": "613",
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Эспириту-Санту"
+  },
+  {
+    "region_id": "617",
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Англия"
+  },
+  {
+    "region_id": "277657",
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Великобритания"
+  },
+  {
+    "region_id": "881",
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Северная Ирландия"
+  },
+  {
+    "region_id": "889",
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Уэльс"
+  },
+  {
+    "region_id": "899",
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Шотландия"
+  },
+  {
+    "region_id": "925",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Jasz-Nagykun-Szolnok"
+  },
+  {
+    "region_id": "928",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Баранья"
+  },
+  {
+    "region_id": "930",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Бач-Кишкун"
+  },
+  {
+    "region_id": "934",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Бекеш"
+  },
+  {
+    "region_id": "936",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Боршод-Абауй-Земплен"
+  },
+  {
+    "region_id": "939",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Будапешт"
+  },
+  {
+    "region_id": "941",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Ваш"
+  },
+  {
+    "region_id": "943",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Веспрем"
+  },
+  {
+    "region_id": "945",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Дьёр-Шопрон"
+  },
+  {
+    "region_id": "947",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Зала"
+  },
+  {
+    "region_id": "950",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Комаром"
+  },
+  {
+    "region_id": "952",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Ноград"
+  },
+  {
+    "region_id": "954",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Пешт"
+  },
+  {
+    "region_id": "956",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Сабольч-Сатмар"
+  },
+  {
+    "region_id": "958",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Фейер"
+  },
+  {
+    "region_id": "961",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Хайду-Бихар"
+  },
+  {
+    "region_id": "964",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Хевеш"
+  },
+  {
+    "region_id": "967",
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Чонград"
+  },
+  {
+    "region_id": "972",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Dong Bang Song Cuu Long"
+  },
+  {
+    "region_id": "975",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Dong Bang Song Hong"
+  },
+  {
+    "region_id": "979",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Dong Nam"
+  },
+  {
+    "region_id": "982",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Duyen Hai Mien Trung"
+  },
+  {
+    "region_id": "987",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Khu Bon"
+  },
+  {
+    "region_id": "990",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Mien Nui Va Trung"
+  },
+  {
+    "region_id": "992",
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Thai Nguyen"
+  },
+  {
+    "region_id": "995",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Artibonite"
+  },
+  {
+    "region_id": "997",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Grand`Anse"
+  },
+  {
+    "region_id": "999",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Nord-Ouest"
+  },
+  {
+    "region_id": "1001",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Ouest"
+  },
+  {
+    "region_id": "1003",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Sud"
+  },
+  {
+    "region_id": "1005",
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Sud-Est"
+  },
+  {
+    "region_id": "1008",
+    "country_id": "1007",
+    "city_id": "0",
+    "name": "Grande-Terre"
+  },
+  {
+    "region_id": "1010",
+    "country_id": "1007",
+    "city_id": "0",
+    "name": "Бас-Тер"
+  },
+  {
+    "region_id": "1013",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Berlin"
+  },
+  {
+    "region_id": "1015",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Brandenburg"
+  },
+  {
+    "region_id": "1020",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Mecklenburg-Vorpommern"
+  },
+  {
+    "region_id": "1028",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Sachsen"
+  },
+  {
+    "region_id": "1043",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Sachsen-Anhalt"
+  },
+  {
+    "region_id": "1053",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Thuringen"
+  },
+  {
+    "region_id": "1064",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Бавария"
+  },
+  {
+    "region_id": "1083",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Баден-Вюртемберг"
+  },
+  {
+    "region_id": "1103",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Бремен"
+  },
+  {
+    "region_id": "1106",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Гамбург"
+  },
+  {
+    "region_id": "277663",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Германия"
+  },
+  {
+    "region_id": "1108",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Гессен"
+  },
+  {
+    "region_id": "1120",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Нижняя Саксония"
+  },
+  {
+    "region_id": "1137",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Рейнланд-Пфальц"
+  },
+  {
+    "region_id": "3024114",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Саарлэнд"
+  },
+  {
+    "region_id": "1149",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Саарская область"
+  },
+  {
+    "region_id": "1152",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Северный Рейн-Вестфалия"
+  },
+  {
+    "region_id": "1201",
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Шлезвиг-Гольштейн"
+  },
+  {
+    "region_id": "1207",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Гелдерланд"
+  },
+  {
+    "region_id": "1213",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Гронинген"
+  },
+  {
+    "region_id": "1215",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Дренте"
+  },
+  {
+    "region_id": "1217",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Лимбург"
+  },
+  {
+    "region_id": "1222",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Оверэйсел"
+  },
+  {
+    "region_id": "1227",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Северная Голландия"
+  },
+  {
+    "region_id": "1235",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Северный Брабант"
+  },
+  {
+    "region_id": "1240",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Утрехт"
+  },
+  {
+    "region_id": "1244",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Фрисландия"
+  },
+  {
+    "region_id": "1246",
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Южная Голландия"
+  },
+  {
+    "region_id": "2567441",
+    "country_id": "2567393",
+    "city_id": "0",
+    "name": "Тегусигальпа"
+  },
+  {
+    "region_id": "277558",
+    "country_id": "277557",
+    "city_id": "0",
+    "name": "Гонконг"
+  },
+  {
+    "region_id": "1259",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Ahaia"
+  },
+  {
+    "region_id": "1261",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Attiki"
+  },
+  {
+    "region_id": "1264",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Drama"
+  },
+  {
+    "region_id": "1266",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Evros"
+  },
+  {
+    "region_id": "1268",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Hania"
+  },
+  {
+    "region_id": "1270",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Ioannina"
+  },
+  {
+    "region_id": "1272",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Iraklion"
+  },
+  {
+    "region_id": "1274",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Kavala"
+  },
+  {
+    "region_id": "1276",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Magnisia"
+  },
+  {
+    "region_id": "1278",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Thessaloniki"
+  },
+  {
+    "region_id": "6128641",
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Корфу"
+  },
+  {
+    "region_id": "1281",
+    "country_id": "1280",
+    "city_id": "0",
+    "name": "Абхазия"
+  },
+  {
+    "region_id": "1292",
+    "country_id": "1280",
+    "city_id": "0",
+    "name": "Аджария"
+  },
+  {
+    "region_id": "1296",
+    "country_id": "1280",
+    "city_id": "0",
+    "name": "Грузия"
+  },
+  {
+    "region_id": "1363",
+    "country_id": "1280",
+    "city_id": "0",
+    "name": "Южная Осетия"
+  },
+  {
+    "region_id": "1367",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Baйле"
+  },
+  {
+    "region_id": "1369",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Ceверная Ютландия"
+  },
+  {
+    "region_id": "1371",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Opxyс"
+  },
+  {
+    "region_id": "1374",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Pocкилле"
+  },
+  {
+    "region_id": "1376",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Pибе"
+  },
+  {
+    "region_id": "2331485",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Копенгаген"
+  },
+  {
+    "region_id": "1378",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Фюн"
+  },
+  {
+    "region_id": "2077237",
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Хельсингор"
+  },
+  {
+    "region_id": "2578001",
+    "country_id": "2577958",
+    "city_id": "0",
+    "name": "Санто-доминго"
+  },
+  {
+    "region_id": "1381",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Аль-Кахира"
+  },
+  {
+    "region_id": "1383",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Асуан"
+  },
+  {
+    "region_id": "1385",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Асьют"
+  },
+  {
+    "region_id": "1387",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Бени-Суэйф"
+  },
+  {
+    "region_id": "1389",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Гарбия"
+  },
+  {
+    "region_id": "1391",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Думьят"
+  },
+  {
+    "region_id": "277674",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Египет"
+  },
+  {
+    "region_id": "3409961",
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Синай"
+  },
+  {
+    "region_id": "1449",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Иерусалим"
+  },
+  {
+    "region_id": "1440",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Тель-Авив"
+  },
+  {
+    "region_id": "1394",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Хадаром"
+  },
+  {
+    "region_id": "1403",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Хамеркац"
+  },
+  {
+    "region_id": "1416",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Хацафон"
+  },
+  {
+    "region_id": "1429",
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Хефа"
+  },
+  {
+    "region_id": "1452",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Bangla"
+  },
+  {
+    "region_id": "1468",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Chhattisgarh"
+  },
+  {
+    "region_id": "1473",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Karnataka"
+  },
+  {
+    "region_id": "1488",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Uttaranchal"
+  },
+  {
+    "region_id": "1491",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Андхра-Прадеш"
+  },
+  {
+    "region_id": "1509",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Ассам"
+  },
+  {
+    "region_id": "1512",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Бихар"
+  },
+  {
+    "region_id": "1521",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Гуджарат"
+  },
+  {
+    "region_id": "1539",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Джамму и Кашмир"
+  },
+  {
+    "region_id": "277673",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Индия"
+  },
+  {
+    "region_id": "1545",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Керала"
+  },
+  {
+    "region_id": "1548",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Мадхья-Прадеш"
+  },
+  {
+    "region_id": "1561",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Манипур"
+  },
+  {
+    "region_id": "1563",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Махараштра"
+  },
+  {
+    "region_id": "1586",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Мегхалая"
+  },
+  {
+    "region_id": "1588",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Орисса"
+  },
+  {
+    "region_id": "1591",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Пенджаб"
+  },
+  {
+    "region_id": "1596",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Пондишери"
+  },
+  {
+    "region_id": "1598",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Раджастхан"
+  },
+  {
+    "region_id": "1612",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Тамилнад"
+  },
+  {
+    "region_id": "1629",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Трипура"
+  },
+  {
+    "region_id": "1631",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Уттар-Прадеш"
+  },
+  {
+    "region_id": "1656",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Харьяна"
+  },
+  {
+    "region_id": "1661",
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Чандигарх"
+  },
+  {
+    "region_id": "277560",
+    "country_id": "277559",
+    "city_id": "0",
+    "name": "Индонезия"
+  },
+  {
+    "region_id": "277562",
+    "country_id": "277561",
+    "city_id": "0",
+    "name": "Иордания"
+  },
+  {
+    "region_id": "3410574",
+    "country_id": "3410238",
+    "city_id": "0",
+    "name": "Багдад"
+  },
+  {
+    "region_id": "3410602",
+    "country_id": "3410238",
+    "city_id": "0",
+    "name": "Басра"
+  },
+  {
+    "region_id": "3410645",
+    "country_id": "3410238",
+    "city_id": "0",
+    "name": "Мосул"
+  },
+  {
+    "region_id": "1664",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Azarbayjan-e Khavari"
+  },
+  {
+    "region_id": "1667",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Esfahan"
+  },
+  {
+    "region_id": "1669",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Hamadan"
+  },
+  {
+    "region_id": "1671",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Kordestan"
+  },
+  {
+    "region_id": "1673",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Markazi"
+  },
+  {
+    "region_id": "1675",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Sistan-e Baluches"
+  },
+  {
+    "region_id": "1677",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Yazd"
+  },
+  {
+    "region_id": "1679",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Керман"
+  },
+  {
+    "region_id": "1681",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Керманшахан"
+  },
+  {
+    "region_id": "1683",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Мазендеран"
+  },
+  {
+    "region_id": "1686",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Тегеран"
+  },
+  {
+    "region_id": "1688",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Фарс"
+  },
+  {
+    "region_id": "1691",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Хорасан"
+  },
+  {
+    "region_id": "1693",
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Хузистан"
+  },
+  {
+    "region_id": "1697",
+    "country_id": "1696",
+    "city_id": "0",
+    "name": "Cork"
+  },
+  {
+    "region_id": "1699",
+    "country_id": "1696",
+    "city_id": "0",
+    "name": "Dublin"
+  },
+  {
+    "region_id": "1702",
+    "country_id": "1696",
+    "city_id": "0",
+    "name": "Limerick"
+  },
+  {
+    "region_id": "1704",
+    "country_id": "1696",
+    "city_id": "0",
+    "name": "Waterford"
+  },
+  {
+    "region_id": "1708",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Cantabria"
+  },
+  {
+    "region_id": "1710",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Ceuta"
+  },
+  {
+    "region_id": "4093580",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Gerona"
+  },
+  {
+    "region_id": "1712",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Granada"
+  },
+  {
+    "region_id": "1714",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "La Rioja"
+  },
+  {
+    "region_id": "1716",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Salamanca"
+  },
+  {
+    "region_id": "1718",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Алава"
+  },
+  {
+    "region_id": "1720",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Аликанте"
+  },
+  {
+    "region_id": "1724",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Альбасете"
+  },
+  {
+    "region_id": "1726",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Альмерия"
+  },
+  {
+    "region_id": "1728",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Астурия"
+  },
+  {
+    "region_id": "1731",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Барселона"
+  },
+  {
+    "region_id": "1738",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Бискайя"
+  },
+  {
+    "region_id": "1740",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Бургос"
+  },
+  {
+    "region_id": "1742",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Валенсия"
+  },
+  {
+    "region_id": "1744",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Валья­долид"
+  },
+  {
+    "region_id": "277661",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Испания"
+  },
+  {
+    "region_id": "1746",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Кадис"
+  },
+  {
+    "region_id": "1749",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Касерес"
+  },
+  {
+    "region_id": "1753",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Кордова"
+  },
+  {
+    "region_id": "1755",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Лас-Пальмас"
+  },
+  {
+    "region_id": "1757",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Леон"
+  },
+  {
+    "region_id": "1759",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Лерида"
+  },
+  {
+    "region_id": "1761",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Луго"
+  },
+  {
+    "region_id": "1763",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Мадрид"
+  },
+  {
+    "region_id": "1765",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Малага"
+  },
+  {
+    "region_id": "1767",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Мурсия"
+  },
+  {
+    "region_id": "1769",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Острова Балеарские"
+  },
+  {
+    "region_id": "1771",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Паленсия"
+  },
+  {
+    "region_id": "1774",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Самора"
+  },
+  {
+    "region_id": "1776",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Санта-Крус-де-Тенерифе"
+  },
+  {
+    "region_id": "1778",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Сарагоса"
+  },
+  {
+    "region_id": "1780",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Севилья"
+  },
+  {
+    "region_id": "1782",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Сьюдад-Реаль"
+  },
+  {
+    "region_id": "1784",
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Хаэн"
+  },
+  {
+    "region_id": "1787",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Абруцци"
+  },
+  {
+    "region_id": "1789",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Апулия"
+  },
+  {
+    "region_id": "1802",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Венеция"
+  },
+  {
+    "region_id": "277668",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Италия"
+  },
+  {
+    "region_id": "1806",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Калабрия"
+  },
+  {
+    "region_id": "1810",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Кампания"
+  },
+  {
+    "region_id": "1819",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Лацио"
+  },
+  {
+    "region_id": "1821",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Лигурия"
+  },
+  {
+    "region_id": "1826",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Ломбардия"
+  },
+  {
+    "region_id": "1838",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Марке"
+  },
+  {
+    "region_id": "1841",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "О. Сардиния"
+  },
+  {
+    "region_id": "1844",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "О. Сицилия"
+  },
+  {
+    "region_id": "1858",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Пьемонт"
+  },
+  {
+    "region_id": "1864",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Тоскана"
+  },
+  {
+    "region_id": "1876",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Трентино-Альто-Адидже"
+  },
+  {
+    "region_id": "1879",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Умбрия"
+  },
+  {
+    "region_id": "1882",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Фриули-Венеция-Джулия"
+  },
+  {
+    "region_id": "1885",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Эмилия-Романья"
+  },
+  {
+    "region_id": "2416357",
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "о. Сан-Джорджо Маджоре"
+  },
+  {
+    "region_id": "2564700",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Акмолинская обл."
+  },
+  {
+    "region_id": "1895",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Актюбинская обл."
+  },
+  {
+    "region_id": "1911",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Алма-Атинская обл."
+  },
+  {
+    "region_id": "1924",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Восточно-Казахстанская обл."
+  },
+  {
+    "region_id": "1942",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Гурьевская обл."
+  },
+  {
+    "region_id": "1954",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Джамбулская обл."
+  },
+  {
+    "region_id": "1974",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Джезказганская обл."
+  },
+  {
+    "region_id": "1934356",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Западно-Казахстанская обл."
+  },
+  {
+    "region_id": "277655",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Казахстан"
+  },
+  {
+    "region_id": "1994",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Карагандинская обл."
+  },
+  {
+    "region_id": "2010",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Кзыл-Ординская обл."
+  },
+  {
+    "region_id": "2021",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Кокчетавская обл."
+  },
+  {
+    "region_id": "2040",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Кустанайская обл."
+  },
+  {
+    "region_id": "2055",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Мангышлакская обл."
+  },
+  {
+    "region_id": "2061",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Павлодарская обл."
+  },
+  {
+    "region_id": "2074",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Северо-Казахстанская обл."
+  },
+  {
+    "region_id": "2084",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Семипалатинская обл."
+  },
+  {
+    "region_id": "2105",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Талды-Курганская обл."
+  },
+  {
+    "region_id": "2120",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Тургайская обл."
+  },
+  {
+    "region_id": "2128",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Целиноградская обл."
+  },
+  {
+    "region_id": "2146",
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Чимкентская обл."
+  },
+  {
+    "region_id": "2164",
+    "country_id": "2163",
+    "city_id": "0",
+    "name": "Littoral"
+  },
+  {
+    "region_id": "2166",
+    "country_id": "2163",
+    "city_id": "0",
+    "name": "Sudouest"
+  },
+  {
+    "region_id": "2168",
+    "country_id": "2163",
+    "city_id": "0",
+    "name": "Северная"
+  },
+  {
+    "region_id": "2170",
+    "country_id": "2163",
+    "city_id": "0",
+    "name": "Центральная"
+  },
+  {
+    "region_id": "2173",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Альберта"
+  },
+  {
+    "region_id": "2181",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Британская Колумбия"
+  },
+  {
+    "region_id": "2201",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Квебек"
+  },
+  {
+    "region_id": "2229",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Манитоба"
+  },
+  {
+    "region_id": "2232",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Новая Шотландия"
+  },
+  {
+    "region_id": "2235",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Нью-Брунсвик"
+  },
+  {
+    "region_id": "2239",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Ньюфаундленд"
+  },
+  {
+    "region_id": "2242",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Онтарио"
+  },
+  {
+    "region_id": "2291",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Принц Эдуард"
+  },
+  {
+    "region_id": "2293",
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Саскачеван"
+  },
+  {
+    "region_id": "11564803",
+    "country_id": "582029",
+    "city_id": "0",
+    "name": "Багамы"
+  },
+  {
+    "region_id": "2298",
+    "country_id": "2297",
+    "city_id": "0",
+    "name": "Government controlled area"
+  },
+  {
+    "region_id": "2300",
+    "country_id": "2297",
+    "city_id": "0",
+    "name": "Turkish controlled area"
+  },
+  {
+    "region_id": "2304",
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Иссык-Кульская обл."
+  },
+  {
+    "region_id": "2316",
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Кыргызстан"
+  },
+  {
+    "region_id": "2327",
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Нарынская обл."
+  },
+  {
+    "region_id": "2340",
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Ошская обл."
+  },
+  {
+    "region_id": "2365",
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Таласская обл."
+  },
+  {
+    "region_id": "2375",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Xinjiang"
+  },
+  {
+    "region_id": "2379",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Внутренняя Монголия"
+  },
+  {
+    "region_id": "2382",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Ганьсу"
+  },
+  {
+    "region_id": "4691804",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Гуандон"
+  },
+  {
+    "region_id": "2386",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Гуанси"
+  },
+  {
+    "region_id": "2388",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Ляонин"
+  },
+  {
+    "region_id": "3331120",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Пекин"
+  },
+  {
+    "region_id": "2393",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Сычуань"
+  },
+  {
+    "region_id": "2396",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Фуцзянь"
+  },
+  {
+    "region_id": "2398",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Хубэй"
+  },
+  {
+    "region_id": "2401",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Хунань"
+  },
+  {
+    "region_id": "2404",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Хэбэй"
+  },
+  {
+    "region_id": "2406",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Хэйлунцзян"
+  },
+  {
+    "region_id": "2408",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Хэнань"
+  },
+  {
+    "region_id": "2411",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Цзилинь"
+  },
+  {
+    "region_id": "2414",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Цзянси"
+  },
+  {
+    "region_id": "2416",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Цзянсу"
+  },
+  {
+    "region_id": "2419",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Чжэцзян"
+  },
+  {
+    "region_id": "2424",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Шанхай"
+  },
+  {
+    "region_id": "2426",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Шаньдун"
+  },
+  {
+    "region_id": "2428",
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Шаньси"
+  },
+  {
+    "region_id": "6453632",
+    "country_id": "582040",
+    "city_id": "0",
+    "name": "Korea"
+  },
+  {
+    "region_id": "11566007",
+    "country_id": "582040",
+    "city_id": "0",
+    "name": "Южная Корея"
+  },
+  {
+    "region_id": "2431",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Alajuela"
+  },
+  {
+    "region_id": "2433",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Guanacaste"
+  },
+  {
+    "region_id": "2435",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Heredia"
+  },
+  {
+    "region_id": "2437",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Limon"
+  },
+  {
+    "region_id": "2439",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Puntarenas"
+  },
+  {
+    "region_id": "2441",
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "San Jose"
+  },
+  {
+    "region_id": "2483267",
+    "country_id": "582077",
+    "city_id": "0",
+    "name": "Гавана"
+  },
+  {
+    "region_id": "2444",
+    "country_id": "2443",
+    "city_id": "0",
+    "name": "al-Jahra"
+  },
+  {
+    "region_id": "2446",
+    "country_id": "2443",
+    "city_id": "0",
+    "name": "al-Kuwayt"
+  },
+  {
+    "region_id": "2449",
+    "country_id": "2448",
+    "city_id": "0",
+    "name": "Латвия"
+  },
+  {
+    "region_id": "2505921",
+    "country_id": "2505884",
+    "city_id": "0",
+    "name": "Бейрут"
+  },
+  {
+    "region_id": "2494137",
+    "country_id": "582060",
+    "city_id": "0",
+    "name": "Бейрут"
+  },
+  {
+    "region_id": "2510",
+    "country_id": "2509",
+    "city_id": "0",
+    "name": "Tarabulus"
+  },
+  {
+    "region_id": "2512",
+    "country_id": "2509",
+    "city_id": "0",
+    "name": "Бенгази"
+  },
+  {
+    "region_id": "2515",
+    "country_id": "2514",
+    "city_id": "0",
+    "name": "Литва"
+  },
+  {
+    "region_id": "2615",
+    "country_id": "2614",
+    "city_id": "0",
+    "name": "Люксембург"
+  },
+  {
+    "region_id": "3663676",
+    "country_id": "582041",
+    "city_id": "0",
+    "name": "Скопье"
+  },
+  {
+    "region_id": "277564",
+    "country_id": "277563",
+    "city_id": "0",
+    "name": "Малайзия"
+  },
+  {
+    "region_id": "6460443",
+    "country_id": "582043",
+    "city_id": "0",
+    "name": "Мальта"
+  },
+  {
+    "region_id": "2618",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Агуаскальентес"
+  },
+  {
+    "region_id": "2620",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Веракрус"
+  },
+  {
+    "region_id": "2639",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Герреро"
+  },
+  {
+    "region_id": "2646",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Гуанахуато"
+  },
+  {
+    "region_id": "2656",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Дуранго"
+  },
+  {
+    "region_id": "2661",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Идальго"
+  },
+  {
+    "region_id": "2666",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Кампече"
+  },
+  {
+    "region_id": "2670",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Керетаро"
+  },
+  {
+    "region_id": "2668",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Керетаро"
+  },
+  {
+    "region_id": "2672",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Коауила"
+  },
+  {
+    "region_id": "2679",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Колима"
+  },
+  {
+    "region_id": "2683",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Мехико"
+  },
+  {
+    "region_id": "2690",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Мичоакан"
+  },
+  {
+    "region_id": "2700",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Морелос"
+  },
+  {
+    "region_id": "2704",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Наярит"
+  },
+  {
+    "region_id": "2709",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Нижняя Калифорния"
+  },
+  {
+    "region_id": "2713",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Нуэво-Леон"
+  },
+  {
+    "region_id": "2717",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Оахака"
+  },
+  {
+    "region_id": "2725",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Пуэбла"
+  },
+  {
+    "region_id": "2730",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Сакатекас"
+  },
+  {
+    "region_id": "2735",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Сан-Луис-Потоси"
+  },
+  {
+    "region_id": "2741",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Синалоа"
+  },
+  {
+    "region_id": "2746",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Сонора"
+  },
+  {
+    "region_id": "2755",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Табаско"
+  },
+  {
+    "region_id": "2759",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Тамаулипас"
+  },
+  {
+    "region_id": "2766",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Федеральный округ"
+  },
+  {
+    "region_id": "2768",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Халиско"
+  },
+  {
+    "region_id": "2778",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Чиуауа"
+  },
+  {
+    "region_id": "2780",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Чьяпас"
+  },
+  {
+    "region_id": "2786",
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Юкатан"
+  },
+  {
+    "region_id": "6128697",
+    "country_id": "582082",
+    "city_id": "0",
+    "name": "Мозамбик"
+  },
+  {
+    "region_id": "2789",
+    "country_id": "2788",
+    "city_id": "0",
+    "name": "Молдова"
+  },
+  {
+    "region_id": "2834",
+    "country_id": "2833",
+    "city_id": "0",
+    "name": "Монако"
+  },
+  {
+    "region_id": "2687732",
+    "country_id": "2687701",
+    "city_id": "0",
+    "name": "Улан-батор"
+  },
+  {
+    "region_id": "4042477",
+    "country_id": "582065",
+    "city_id": "0",
+    "name": "Морокко"
+  },
+  {
+    "region_id": "4119771",
+    "country_id": "582065",
+    "city_id": "0",
+    "name": "Танжер"
+  },
+  {
+    "region_id": "277552",
+    "country_id": "277551",
+    "city_id": "0",
+    "name": "Нидерланды"
+  },
+  {
+    "region_id": "2838",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Auckland"
+  },
+  {
+    "region_id": "2841",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Bay of Plenty"
+  },
+  {
+    "region_id": "2844",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Canterbury"
+  },
+  {
+    "region_id": "2847",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Gisborne"
+  },
+  {
+    "region_id": "2849",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Hawke`s Bay"
+  },
+  {
+    "region_id": "2852",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Manawatu-Wanganui"
+  },
+  {
+    "region_id": "2855",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Marlborough"
+  },
+  {
+    "region_id": "2857",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Nelson"
+  },
+  {
+    "region_id": "2859",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Northland"
+  },
+  {
+    "region_id": "2861",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Otago"
+  },
+  {
+    "region_id": "2863",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Southland"
+  },
+  {
+    "region_id": "2866",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Taranaki"
+  },
+  {
+    "region_id": "2869",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Tasman"
+  },
+  {
+    "region_id": "2871",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Waikato"
+  },
+  {
+    "region_id": "2874",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Wellington"
+  },
+  {
+    "region_id": "2878",
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "West Coast"
+  },
+  {
+    "region_id": "2881",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Бускеруд"
+  },
+  {
+    "region_id": "2883",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Вестагдер"
+  },
+  {
+    "region_id": "1924623",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Нордланд"
+  },
+  {
+    "region_id": "2885",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Нурлан"
+  },
+  {
+    "region_id": "2887",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Осло"
+  },
+  {
+    "region_id": "2577870",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Ромсдал"
+  },
+  {
+    "region_id": "2889",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Ругаланн"
+  },
+  {
+    "region_id": "2891",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Сёр-Трённелаг"
+  },
+  {
+    "region_id": "2893",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Телемарк"
+  },
+  {
+    "region_id": "2895",
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Хуралан"
+  },
+  {
+    "region_id": "2316780",
+    "country_id": "582051",
+    "city_id": "0",
+    "name": "Дубаи"
+  },
+  {
+    "region_id": "1930798",
+    "country_id": "582105",
+    "city_id": "0",
+    "name": "Остров Мэн"
+  },
+  {
+    "region_id": "7593366",
+    "country_id": "582044",
+    "city_id": "0",
+    "name": "Пакистан"
+  },
+  {
+    "region_id": "5556213",
+    "country_id": "582046",
+    "city_id": "0",
+    "name": "Перу"
+  },
+  {
+    "region_id": "2898",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Dolnoslaskie"
+  },
+  {
+    "region_id": "2919",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Kujawsko-Pomorskie"
+  },
+  {
+    "region_id": "2929",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Lubuskie"
+  },
+  {
+    "region_id": "2937",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Malopolskie"
+  },
+  {
+    "region_id": "2958",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Mazowieckie"
+  },
+  {
+    "region_id": "2983",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Podkarpackie"
+  },
+  {
+    "region_id": "2994",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Podlaskie"
+  },
+  {
+    "region_id": "3003",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Pomorskie"
+  },
+  {
+    "region_id": "3018",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Slaskie"
+  },
+  {
+    "region_id": "3049",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Swietokrzyskie"
+  },
+  {
+    "region_id": "3056",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Warminsko-Mazurskie"
+  },
+  {
+    "region_id": "3068",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Wielkopolskie"
+  },
+  {
+    "region_id": "3090",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Zachodnio-Pomorskie"
+  },
+  {
+    "region_id": "3101",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Лодзинское"
+  },
+  {
+    "region_id": "3118",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Люблинское"
+  },
+  {
+    "region_id": "3133",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Опольское"
+  },
+  {
+    "region_id": "277664",
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Польша"
+  },
+  {
+    "region_id": "3142",
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "Centro"
+  },
+  {
+    "region_id": "3144",
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "O-ва Мадейра"
+  },
+  {
+    "region_id": "3146",
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "Лисабон"
+  },
+  {
+    "region_id": "3150",
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "Орта"
+  },
+  {
+    "region_id": "2284951",
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "Фаро"
+  },
+  {
+    "region_id": "3157",
+    "country_id": "3156",
+    "city_id": "0",
+    "name": "Saint-Denis"
+  },
+  {
+    "region_id": "277556",
+    "country_id": "277555",
+    "city_id": "0",
+    "name": "Румыния"
+  },
+  {
+    "region_id": "5682",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Айдахо"
+  },
+  {
+    "region_id": "5694",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Айова"
+  },
+  {
+    "region_id": "5752",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Алабама"
+  },
+  {
+    "region_id": "5924",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Аляска"
+  },
+  {
+    "region_id": "5927",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Аризона"
+  },
+  {
+    "region_id": "5983",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Арканзас"
+  },
+  {
+    "region_id": "6098",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Вайоминг"
+  },
+  {
+    "region_id": "6103",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Вашингтон"
+  },
+  {
+    "region_id": "6167",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Вермонт"
+  },
+  {
+    "region_id": "6176",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Виргиния"
+  },
+  {
+    "region_id": "6242",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Висконсин"
+  },
+  {
+    "region_id": "6266",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Гаваи"
+  },
+  {
+    "region_id": "6280",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Делавар"
+  },
+  {
+    "region_id": "6291",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Джорджия"
+  },
+  {
+    "region_id": "6352",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Западная Виргиния"
+  },
+  {
+    "region_id": "6367",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Иллинойс"
+  },
+  {
+    "region_id": "6520",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Индиана"
+  },
+  {
+    "region_id": "6591",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Калифорния"
+  },
+  {
+    "region_id": "6864",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Канзас"
+  },
+  {
+    "region_id": "6917",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Кентукки"
+  },
+  {
+    "region_id": "6973",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Колорадо"
+  },
+  {
+    "region_id": "7015",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Коннектикут"
+  },
+  {
+    "region_id": "7055",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Луизиана"
+  },
+  {
+    "region_id": "7120",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Массачусетс"
+  },
+  {
+    "region_id": "7228",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Миннесота"
+  },
+  {
+    "region_id": "7288",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Миссисипи"
+  },
+  {
+    "region_id": "7411",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Миссури"
+  },
+  {
+    "region_id": "7493",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Мичиган"
+  },
+  {
+    "region_id": "7598",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Монтана"
+  },
+  {
+    "region_id": "7613",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Мэн"
+  },
+  {
+    "region_id": "7641",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Мэриленд"
+  },
+  {
+    "region_id": "7691",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Небраска"
+  },
+  {
+    "region_id": "7714",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Невада"
+  },
+  {
+    "region_id": "7733",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Нью-Гэмпшир"
+  },
+  {
+    "region_id": "7744",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Нью-Джерси"
+  },
+  {
+    "region_id": "7859",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Нью-Йорк"
+  },
+  {
+    "region_id": "8089",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Нью-Мексико"
+  },
+  {
+    "region_id": "8145",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Огайо"
+  },
+  {
+    "region_id": "8439",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Оклахома"
+  },
+  {
+    "region_id": "8483",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Орегон"
+  },
+  {
+    "region_id": "8516",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Пенсильвания"
+  },
+  {
+    "region_id": "8751",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Род-Айленд"
+  },
+  {
+    "region_id": "277672",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "США"
+  },
+  {
+    "region_id": "8760",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Северная Дакота"
+  },
+  {
+    "region_id": "8768",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Северная Каролина"
+  },
+  {
+    "region_id": "8856",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Теннесси"
+  },
+  {
+    "region_id": "9047",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Техас"
+  },
+  {
+    "region_id": "9185",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Флорида"
+  },
+  {
+    "region_id": "9477",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Южная Дакота"
+  },
+  {
+    "region_id": "9489",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Южная Каролина"
+  },
+  {
+    "region_id": "9515",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "Юта"
+  },
+  {
+    "region_id": "8479",
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "окр.Колумбия"
+  },
+  {
+    "region_id": "5648",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "Ahuachapan"
+  },
+  {
+    "region_id": "5650",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "Cuscatlan"
+  },
+  {
+    "region_id": "5652",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "La Libertad"
+  },
+  {
+    "region_id": "5654",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "La Paz"
+  },
+  {
+    "region_id": "5656",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "La Union"
+  },
+  {
+    "region_id": "5658",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "San Miguel"
+  },
+  {
+    "region_id": "5660",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "San Salvador"
+  },
+  {
+    "region_id": "5662",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "Santa Ana"
+  },
+  {
+    "region_id": "5664",
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "Sonsonate"
+  },
+  {
+    "region_id": "277566",
+    "country_id": "277565",
+    "city_id": "0",
+    "name": "Сингапур"
+  },
+  {
+    "region_id": "1923301",
+    "country_id": "582067",
+    "city_id": "0",
+    "name": "Дамаск"
+  },
+  {
+    "region_id": "5667",
+    "country_id": "5666",
+    "city_id": "0",
+    "name": "Trnavsky"
+  },
+  {
+    "region_id": "5669",
+    "country_id": "5666",
+    "city_id": "0",
+    "name": "Братислава"
+  },
+  {
+    "region_id": "5671",
+    "country_id": "5666",
+    "city_id": "0",
+    "name": "Жилина"
+  },
+  {
+    "region_id": "5674",
+    "country_id": "5673",
+    "city_id": "0",
+    "name": "Osrednjeslovenska"
+  },
+  {
+    "region_id": "5676",
+    "country_id": "5673",
+    "city_id": "0",
+    "name": "Podravska"
+  },
+  {
+    "region_id": "277671",
+    "country_id": "5673",
+    "city_id": "0",
+    "name": "Словения"
+  },
+  {
+    "region_id": "5679",
+    "country_id": "5678",
+    "city_id": "0",
+    "name": "Paramaribo"
+  },
+  {
+    "region_id": "9576",
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Горно-Бадахшанская обл."
+  },
+  {
+    "region_id": "9589",
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Кулябская обл."
+  },
+  {
+    "region_id": "9596",
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Курган-Тюбинская обл."
+  },
+  {
+    "region_id": "9605",
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Согдийская обл."
+  },
+  {
+    "region_id": "9627",
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Таджикистан"
+  },
+  {
+    "region_id": "277568",
+    "country_id": "277567",
+    "city_id": "0",
+    "name": "Тайвань"
+  },
+  {
+    "region_id": "6128546",
+    "country_id": "582050",
+    "city_id": "0",
+    "name": "Тайланд"
+  },
+  {
+    "region_id": "5640862",
+    "country_id": "582090",
+    "city_id": "0",
+    "name": "Tunisia"
+  },
+  {
+    "region_id": "9639",
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Ашхабадская обл."
+  },
+  {
+    "region_id": "9653",
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Красноводская обл."
+  },
+  {
+    "region_id": "9670",
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Марыйская обл."
+  },
+  {
+    "region_id": "9682",
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Ташаузская обл."
+  },
+  {
+    "region_id": "9685",
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Чарджоуская обл."
+  },
+  {
+    "region_id": "277570",
+    "country_id": "277569",
+    "city_id": "0",
+    "name": "Туркмения"
+  },
+  {
+    "region_id": "9702",
+    "country_id": "9701",
+    "city_id": "0",
+    "name": "Grand Turk"
+  },
+  {
+    "region_id": "9706",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Bartin"
+  },
+  {
+    "region_id": "9708",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Bayburt"
+  },
+  {
+    "region_id": "9710",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Karabuk"
+  },
+  {
+    "region_id": "9712",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Адана"
+  },
+  {
+    "region_id": "9714",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Айдын"
+  },
+  {
+    "region_id": "9716",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Амасья"
+  },
+  {
+    "region_id": "9718",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Анкара"
+  },
+  {
+    "region_id": "9720",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Анталья"
+  },
+  {
+    "region_id": "9722",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Артвин"
+  },
+  {
+    "region_id": "9724",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Афьон"
+  },
+  {
+    "region_id": "9726",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Балыкесир"
+  },
+  {
+    "region_id": "9728",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Биледжик"
+  },
+  {
+    "region_id": "9730",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Бурса"
+  },
+  {
+    "region_id": "9732",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Газиантеп"
+  },
+  {
+    "region_id": "9734",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Денизли"
+  },
+  {
+    "region_id": "9736",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Измир"
+  },
+  {
+    "region_id": "9738",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Испарта"
+  },
+  {
+    "region_id": "9740",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Ичель"
+  },
+  {
+    "region_id": "9742",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Кайсери"
+  },
+  {
+    "region_id": "9744",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Карс"
+  },
+  {
+    "region_id": "9746",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Коджаэли"
+  },
+  {
+    "region_id": "9749",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Конья"
+  },
+  {
+    "region_id": "9751",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Кыркларели"
+  },
+  {
+    "region_id": "9753",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Кютахья"
+  },
+  {
+    "region_id": "9755",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Малатья"
+  },
+  {
+    "region_id": "9757",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Маниса"
+  },
+  {
+    "region_id": "9759",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Сакарья"
+  },
+  {
+    "region_id": "9761",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Самсун"
+  },
+  {
+    "region_id": "9763",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Сивас"
+  },
+  {
+    "region_id": "9765",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Стамбул"
+  },
+  {
+    "region_id": "9767",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Трабзон"
+  },
+  {
+    "region_id": "9770",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Чорум"
+  },
+  {
+    "region_id": "9772",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Эдирне"
+  },
+  {
+    "region_id": "9774",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Элязыг"
+  },
+  {
+    "region_id": "9776",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Эрзинджан"
+  },
+  {
+    "region_id": "9778",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Эрзурум"
+  },
+  {
+    "region_id": "9780",
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Эскишехир"
+  },
+  {
+    "region_id": "9783",
+    "country_id": "9782",
+    "city_id": "0",
+    "name": "Jinja"
+  },
+  {
+    "region_id": "9785",
+    "country_id": "9782",
+    "city_id": "0",
+    "name": "Kampala"
+  },
+  {
+    "region_id": "9788",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Андижанская обл."
+  },
+  {
+    "region_id": "9796",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Бухарская обл."
+  },
+  {
+    "region_id": "9806",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Джизакская обл."
+  },
+  {
+    "region_id": "9813",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Каракалпакия"
+  },
+  {
+    "region_id": "9825",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Кашкадарьинская обл."
+  },
+  {
+    "region_id": "9832",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Навоийская обл."
+  },
+  {
+    "region_id": "9836",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Наманганская обл."
+  },
+  {
+    "region_id": "9844",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Самаркандская обл."
+  },
+  {
+    "region_id": "9851",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Сурхандарьинская обл."
+  },
+  {
+    "region_id": "9859",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Сырдарьинская обл."
+  },
+  {
+    "region_id": "9869",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Ташкентская обл."
+  },
+  {
+    "region_id": "9892",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Ферганская обл."
+  },
+  {
+    "region_id": "9905",
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Хорезмская обл."
+  },
+  {
+    "region_id": "9909",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Винницкая обл."
+  },
+  {
+    "region_id": "9943",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Волынская обл."
+  },
+  {
+    "region_id": "9964",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Днепропетровская обл."
+  },
+  {
+    "region_id": "10002",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Донецкая обл."
+  },
+  {
+    "region_id": "10061",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Житомирская обл."
+  },
+  {
+    "region_id": "10094",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Закарпатская обл."
+  },
+  {
+    "region_id": "10111",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Запорожская обл."
+  },
+  {
+    "region_id": "10133",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Ивано-Франковская обл."
+  },
+  {
+    "region_id": "10165",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Киевская обл."
+  },
+  {
+    "region_id": "10201",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Кировоградская обл."
+  },
+  {
+    "region_id": "10227",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Крымская обл."
+  },
+  {
+    "region_id": "10259",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Луганская обл."
+  },
+  {
+    "region_id": "10318",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Львовская обл."
+  },
+  {
+    "region_id": "10354",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Николаевская обл."
+  },
+  {
+    "region_id": "10373",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Одесская обл."
+  },
+  {
+    "region_id": "10407",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Полтавская обл."
+  },
+  {
+    "region_id": "10437",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Ровенская обл."
+  },
+  {
+    "region_id": "10455",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Сумская обл."
+  },
+  {
+    "region_id": "10480",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Тернопольская обл."
+  },
+  {
+    "region_id": "277656",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Украина"
+  },
+  {
+    "region_id": "10504",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Харьковская обл."
+  },
+  {
+    "region_id": "10535",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Херсонская обл."
+  },
+  {
+    "region_id": "10559",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Хмельницкая обл."
+  },
+  {
+    "region_id": "10583",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Черкасская обл."
+  },
+  {
+    "region_id": "10607",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Черниговская обл."
+  },
+  {
+    "region_id": "10633",
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Черновицкая обл."
+  },
+  {
+    "region_id": "10649",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Etela-Karjala"
+  },
+  {
+    "region_id": "2713529",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Kouvola"
+  },
+  {
+    "region_id": "10651",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Paijat-Hame"
+  },
+  {
+    "region_id": "10653",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Pohjanmaa"
+  },
+  {
+    "region_id": "5640357",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Pohjois-Karjala"
+  },
+  {
+    "region_id": "10655",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Pohjois-Pohjanmaa"
+  },
+  {
+    "region_id": "10657",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Pohjois-Savo"
+  },
+  {
+    "region_id": "10659",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Satakunta"
+  },
+  {
+    "region_id": "10661",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Varsinais-Suomi"
+  },
+  {
+    "region_id": "10663",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Кески-Суоми"
+  },
+  {
+    "region_id": "10665",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Усима"
+  },
+  {
+    "region_id": "277667",
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Финляндия"
+  },
+  {
+    "region_id": "10669",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Cotes-d`Armor"
+  },
+  {
+    "region_id": "10671",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Алье"
+  },
+  {
+    "region_id": "10673",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Альпы Верхние"
+  },
+  {
+    "region_id": "10675",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Альпы Приморские"
+  },
+  {
+    "region_id": "10679",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Арденны"
+  },
+  {
+    "region_id": "10681",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Бельфор"
+  },
+  {
+    "region_id": "10683",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Буш-дю-Рон"
+  },
+  {
+    "region_id": "10686",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Валь-д` Уаз"
+  },
+  {
+    "region_id": "10688",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Валь-де-Марн"
+  },
+  {
+    "region_id": "10699",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Вар"
+  },
+  {
+    "region_id": "10702",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Вогезы"
+  },
+  {
+    "region_id": "10704",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Воклюз"
+  },
+  {
+    "region_id": "10706",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Вьенна"
+  },
+  {
+    "region_id": "10708",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Вьенна Верхняя"
+  },
+  {
+    "region_id": "10710",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Гар"
+  },
+  {
+    "region_id": "10712",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Гаронна Верхняя"
+  },
+  {
+    "region_id": "10714",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Дё-Севр"
+  },
+  {
+    "region_id": "10716",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Дром"
+  },
+  {
+    "region_id": "10719",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Ду"
+  },
+  {
+    "region_id": "10721",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Жиронда"
+  },
+  {
+    "region_id": "10723",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Ивелин"
+  },
+  {
+    "region_id": "10725",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Иль и Виден"
+  },
+  {
+    "region_id": "10728",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Коррез"
+  },
+  {
+    "region_id": "10730",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Корсика Верхняя"
+  },
+  {
+    "region_id": "10732",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Корсика Южная"
+  },
+  {
+    "region_id": "10734",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Кот-д`Ор"
+  },
+  {
+    "region_id": "10736",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Ланды"
+  },
+  {
+    "region_id": "10738",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Ло и Гаронна"
+  },
+  {
+    "region_id": "10740",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Лозер"
+  },
+  {
+    "region_id": "10742",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Луар и Шер"
+  },
+  {
+    "region_id": "10744",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Луара"
+  },
+  {
+    "region_id": "10747",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Луара Атлантическая"
+  },
+  {
+    "region_id": "10750",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Луара Верхняя"
+  },
+  {
+    "region_id": "10752",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Луаре"
+  },
+  {
+    "region_id": "10762",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Мёрт и Мозель"
+  },
+  {
+    "region_id": "10754",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Майенн"
+  },
+  {
+    "region_id": "10756",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Марна"
+  },
+  {
+    "region_id": "10759",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Мен и Луара"
+  },
+  {
+    "region_id": "10764",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Мозель"
+  },
+  {
+    "region_id": "10766",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Морбиан"
+  },
+  {
+    "region_id": "10768",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Нор"
+  },
+  {
+    "region_id": "10774",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Ньевр"
+  },
+  {
+    "region_id": "10776",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "О-де-Сен"
+  },
+  {
+    "region_id": "10794",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Об"
+  },
+  {
+    "region_id": "10796",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Од"
+  },
+  {
+    "region_id": "10798",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Орн"
+  },
+  {
+    "region_id": "10800",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Па-де-Кале"
+  },
+  {
+    "region_id": "10804",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Париж"
+  },
+  {
+    "region_id": "10806",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Пиренеи Атлантические"
+  },
+  {
+    "region_id": "10809",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Пиренеи Верхние"
+  },
+  {
+    "region_id": "10811",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Пиренеи Восточные"
+  },
+  {
+    "region_id": "10813",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Рейн Верхний"
+  },
+  {
+    "region_id": "10817",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Рейн Нижний"
+  },
+  {
+    "region_id": "10819",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Рона"
+  },
+  {
+    "region_id": "10823",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Савойя"
+  },
+  {
+    "region_id": "10825",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Савойя Верхняя"
+  },
+  {
+    "region_id": "10827",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Сарта"
+  },
+  {
+    "region_id": "10829",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Сен-Сен-Дени"
+  },
+  {
+    "region_id": "10841",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Сена Приморская"
+  },
+  {
+    "region_id": "10844",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Сомма"
+  },
+  {
+    "region_id": "10846",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Сона и Луара"
+  },
+  {
+    "region_id": "10849",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Тарн"
+  },
+  {
+    "region_id": "10851",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Уаза"
+  },
+  {
+    "region_id": "10853",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Финистер"
+  },
+  {
+    "region_id": "277669",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Франция"
+  },
+  {
+    "region_id": "10856",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Шаранта"
+  },
+  {
+    "region_id": "10858",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Шаранта Приморская"
+  },
+  {
+    "region_id": "10860",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Шер"
+  },
+  {
+    "region_id": "10862",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эна"
+  },
+  {
+    "region_id": "10864",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эндр"
+  },
+  {
+    "region_id": "10866",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эндр и Луара"
+  },
+  {
+    "region_id": "10868",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эр"
+  },
+  {
+    "region_id": "10870",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эро"
+  },
+  {
+    "region_id": "10872",
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Эссонн"
+  },
+  {
+    "region_id": "277554",
+    "country_id": "277553",
+    "city_id": "0",
+    "name": "Хорватия"
+  },
+  {
+    "region_id": "10875",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Jihochesky"
+  },
+  {
+    "region_id": "10877",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Jihomoravsky"
+  },
+  {
+    "region_id": "10879",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Karlovarsky"
+  },
+  {
+    "region_id": "10881",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Kralovehradecky"
+  },
+  {
+    "region_id": "10883",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Liberecky"
+  },
+  {
+    "region_id": "10886",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Moravskoslezsky"
+  },
+  {
+    "region_id": "10892",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Olomoucky"
+  },
+  {
+    "region_id": "10896",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Stredochesky"
+  },
+  {
+    "region_id": "10898",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Ustecky"
+  },
+  {
+    "region_id": "277670",
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Чехия"
+  },
+  {
+    "region_id": "2412885",
+    "country_id": "582031",
+    "city_id": "0",
+    "name": "Сантьяго"
+  },
+  {
+    "region_id": "10905",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Аргау"
+  },
+  {
+    "region_id": "10908",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Базель-Штадт"
+  },
+  {
+    "region_id": "10910",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Берн"
+  },
+  {
+    "region_id": "10914",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Во"
+  },
+  {
+    "region_id": "10916",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Женева"
+  },
+  {
+    "region_id": "10918",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Золотурн"
+  },
+  {
+    "region_id": "10920",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Люцерн"
+  },
+  {
+    "region_id": "10922",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Невшатель"
+  },
+  {
+    "region_id": "10925",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Тичино"
+  },
+  {
+    "region_id": "10927",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Фрибур"
+  },
+  {
+    "region_id": "10930",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Цюрих"
+  },
+  {
+    "region_id": "277666",
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Швейцария"
+  },
+  {
+    "region_id": "10934",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Skine"
+  },
+  {
+    "region_id": "10938",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Vastra Gotaland"
+  },
+  {
+    "region_id": "10942",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Вермланд"
+  },
+  {
+    "region_id": "10944",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Вестерботтен"
+  },
+  {
+    "region_id": "10946",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Вестернорланд"
+  },
+  {
+    "region_id": "10948",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Вестманланд"
+  },
+  {
+    "region_id": "10950",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Евлеборг"
+  },
+  {
+    "region_id": "10952",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Емтланд"
+  },
+  {
+    "region_id": "10954",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Йёнчёпинг"
+  },
+  {
+    "region_id": "4778004",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Норрботтен"
+  },
+  {
+    "region_id": "10956",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Сёдерманланд"
+  },
+  {
+    "region_id": "10958",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Стокгольм"
+  },
+  {
+    "region_id": "10962",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Упсала"
+  },
+  {
+    "region_id": "10964",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Халланд"
+  },
+  {
+    "region_id": "277665",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Швеция"
+  },
+  {
+    "region_id": "10966",
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Эстерйетланд"
+  },
+  {
+    "region_id": "7719907",
+    "country_id": "582064",
+    "city_id": "0",
+    "name": "Пичинча"
+  },
+  {
+    "region_id": "10969",
+    "country_id": "10968",
+    "city_id": "0",
+    "name": "Эстония"
+  },
+  {
+    "region_id": "3661590",
+    "country_id": "3661568",
+    "city_id": "0",
+    "name": "Йоханесбург"
+  },
+  {
+    "region_id": "11003",
+    "country_id": "11002",
+    "city_id": "0",
+    "name": "Воеводина"
+  },
+  {
+    "region_id": "11008",
+    "country_id": "11002",
+    "city_id": "0",
+    "name": "Косово"
+  },
+  {
+    "region_id": "11010",
+    "country_id": "11002",
+    "city_id": "0",
+    "name": "Сербия"
+  },
+  {
+    "region_id": "277658",
+    "country_id": "11002",
+    "city_id": "0",
+    "name": "Югославия"
+  },
+  {
+    "region_id": "11015",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Cheju"
+  },
+  {
+    "region_id": "11017",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Chollabuk"
+  },
+  {
+    "region_id": "11020",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Chollanam"
+  },
+  {
+    "region_id": "11024",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Chungcheongbuk"
+  },
+  {
+    "region_id": "11027",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Chungcheongnam"
+  },
+  {
+    "region_id": "11029",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Incheon"
+  },
+  {
+    "region_id": "11031",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Kangweon"
+  },
+  {
+    "region_id": "11035",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Kwangju"
+  },
+  {
+    "region_id": "11037",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Kyeonggi"
+  },
+  {
+    "region_id": "11040",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Kyeongsangbuk"
+  },
+  {
+    "region_id": "11045",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Kyeongsangnam"
+  },
+  {
+    "region_id": "11050",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Pusan"
+  },
+  {
+    "region_id": "11052",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Seoul"
+  },
+  {
+    "region_id": "11054",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Taegu"
+  },
+  {
+    "region_id": "11056",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Taejeon"
+  },
+  {
+    "region_id": "11058",
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Ulsan"
+  },
+  {
+    "region_id": "15789405",
+    "country_id": "582106",
+    "city_id": "0",
+    "name": "Ямайка"
+  },
+  {
+    "region_id": "11061",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Айти"
+  },
+  {
+    "region_id": "11068",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Акита"
+  },
+  {
+    "region_id": "11074",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Аомори"
+  },
+  {
+    "region_id": "11080",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Вакаяма"
+  },
+  {
+    "region_id": "11083",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Гифу"
+  },
+  {
+    "region_id": "11088",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Гумма"
+  },
+  {
+    "region_id": "11094",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Ибараки"
+  },
+  {
+    "region_id": "11102",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Ивате"
+  },
+  {
+    "region_id": "11108",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Исикава"
+  },
+  {
+    "region_id": "11113",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Кагава"
+  },
+  {
+    "region_id": "11116",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Кагосима"
+  },
+  {
+    "region_id": "11121",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Канагава"
+  },
+  {
+    "region_id": "11133",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Киото"
+  },
+  {
+    "region_id": "11139",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Коти"
+  },
+  {
+    "region_id": "11142",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Кумамото"
+  },
+  {
+    "region_id": "11146",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Миэ"
+  },
+  {
+    "region_id": "11151",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Мияги"
+  },
+  {
+    "region_id": "11155",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Миядзаки"
+  },
+  {
+    "region_id": "11162",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Нагано"
+  },
+  {
+    "region_id": "11168",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Нагасаки"
+  },
+  {
+    "region_id": "11173",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Нара"
+  },
+  {
+    "region_id": "11178",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Ниигата"
+  },
+  {
+    "region_id": "11185",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Окаяма"
+  },
+  {
+    "region_id": "11189",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Окинава"
+  },
+  {
+    "region_id": "11192",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Осака"
+  },
+  {
+    "region_id": "11209",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Сага"
+  },
+  {
+    "region_id": "11215",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Сайтама"
+  },
+  {
+    "region_id": "11227",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Сига"
+  },
+  {
+    "region_id": "11230",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Сидзуока"
+  },
+  {
+    "region_id": "11233",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Симане"
+  },
+  {
+    "region_id": "11248",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Тиба"
+  },
+  {
+    "region_id": "11261",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Токио"
+  },
+  {
+    "region_id": "11270",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Токусима"
+  },
+  {
+    "region_id": "11273",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Тотиги"
+  },
+  {
+    "region_id": "11279",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Тоттори"
+  },
+  {
+    "region_id": "11283",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Тояма"
+  },
+  {
+    "region_id": "11289",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Фукуи"
+  },
+  {
+    "region_id": "11295",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Фукуока"
+  },
+  {
+    "region_id": "11304",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Фукусима"
+  },
+  {
+    "region_id": "11307",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Хиросима"
+  },
+  {
+    "region_id": "11312",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Хоккайдо"
+  },
+  {
+    "region_id": "11330",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Хпого"
+  },
+  {
+    "region_id": "11340",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Эхиме"
+  },
+  {
+    "region_id": "11346",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Ямагата"
+  },
+  {
+    "region_id": "11354",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Ямагути"
+  },
+  {
+    "region_id": "11363",
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Яманаси"
+  }
+]

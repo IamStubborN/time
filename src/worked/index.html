@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Сравнение времени</title>
+    <link rel="stylesheet" href="./node_modules/awesomplete/awesomplete.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container">
+    <div class="group">
+        <label for="myInput1">Ваше положение</label>
+        <input id="myInput1" value="Москва">
+        <h1 id="myResult1"></h1>
+
+    </div>
+    <div class="group">
+        <label for="myInput2">Другое положение</label>
+        <input id="myInput2">
+        <h1 id="myResult2"></h1>
+    </div>
+</div>
+
+<div class="result">
+    <h1>Разница во времени : </h1>
+    <h1 id="difference"></h1>
+</div>
+
+
+<script src="./node_modules/awesomplete/awesomplete.js"></script>
+</body>
+<script>
+    require('./renderer');
+    require('./node_modules/awesomplete');
+    require('./geo')
+</script>
+</html>

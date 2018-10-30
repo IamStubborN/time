@@ -1,41 +1,43 @@
 import React from 'react'
-import { Add } from './components/Add'
-import { News } from './components/News'
 import './App.css'
+import Geonames from "geonames.js"
+import Awesomplete from "awesomplete"
+import Moment from "moment"
 
 class App extends React.Component {
-  state = {
-    news: null,
-    isLoading: false,
-  }
-  componentDidMount() {
-    this.setState({ isLoading: true })
-    fetch('http://localhost:3000/data/newsData.json')
-      .then(response => {
-        return response.json()
-      })
-      .then(data => {
-        setTimeout(() => {
-          this.setState({ isLoading: false, news: data })
-        }, 3000)
-      })
-  }
-  handleAddNews = data => {
-    const nextNews = [data, ...this.state.news]
-    this.setState({ news: nextNews })
-  }
-  render() {
-    const { news, isLoading } = this.state
+    state = {
+        isLoading: false,
+        paths: [
+            'http://localhost:3000/data/city.json',
+            'http://localhost:3000/data/region.json',
+            'http://localhost:3000/data/country.json'
+        ],
+    }
 
-    return (
-      <React.Fragment>
-        <Add onAddNews={this.handleAddNews} />
-        <h3>Новости</h3>
-        {isLoading && <p>Загружаю...</p>}
-        {Array.isArray(news) && <News data={news} />}
-      </React.Fragment>
-    )
-  }
+    componentDidMount() {
+        this.setState({ isLoading: true })
+            let set = new Set();
+            let fetches = [];
+            this.state.paths.forEach(function (item) {
+                fetches.push(fetch(item)
+                    .then(response => response.json())
+                    .then(data => data.forEach(function (item) {
+                        set.add(item.name)
+                    })))
+            });
+            Promise.all(fetches)
+                .then(data => {
+                    console.log(Array.from(set))
+                    this.setState({ isLoading: false })
+                })
+
+    }
+
+    render() {
+        return (
+            <div>{this.state.isLoading && <img src="http://localhost:3000/data/1.svg"/>}</div>
+        )
+    }
 }
 
 export default App

@@ -1,0 +1,532 @@
+[
+  {
+    "country_id": "3159",
+    "city_id": "0",
+    "name": "Россия"
+  },
+  {
+    "country_id": "4",
+    "city_id": "0",
+    "name": "Австралия"
+  },
+  {
+    "country_id": "63",
+    "city_id": "0",
+    "name": "Австрия"
+  },
+  {
+    "country_id": "81",
+    "city_id": "0",
+    "name": "Азербайджан"
+  },
+  {
+    "country_id": "173",
+    "city_id": "0",
+    "name": "Ангуилья"
+  },
+  {
+    "country_id": "177",
+    "city_id": "0",
+    "name": "Аргентина"
+  },
+  {
+    "country_id": "245",
+    "city_id": "0",
+    "name": "Армения"
+  },
+  {
+    "country_id": "7716093",
+    "city_id": "0",
+    "name": "Арулько"
+  },
+  {
+    "country_id": "248",
+    "city_id": "0",
+    "name": "Беларусь"
+  },
+  {
+    "country_id": "401",
+    "city_id": "0",
+    "name": "Белиз"
+  },
+  {
+    "country_id": "404",
+    "city_id": "0",
+    "name": "Бельгия"
+  },
+  {
+    "country_id": "425",
+    "city_id": "0",
+    "name": "Бермуды"
+  },
+  {
+    "country_id": "428",
+    "city_id": "0",
+    "name": "Болгария"
+  },
+  {
+    "country_id": "467",
+    "city_id": "0",
+    "name": "Бразилия"
+  },
+  {
+    "country_id": "616",
+    "city_id": "0",
+    "name": "Великобритания"
+  },
+  {
+    "country_id": "924",
+    "city_id": "0",
+    "name": "Венгрия"
+  },
+  {
+    "country_id": "971",
+    "city_id": "0",
+    "name": "Вьетнам"
+  },
+  {
+    "country_id": "994",
+    "city_id": "0",
+    "name": "Гаити"
+  },
+  {
+    "country_id": "1007",
+    "city_id": "0",
+    "name": "Гваделупа"
+  },
+  {
+    "country_id": "1012",
+    "city_id": "0",
+    "name": "Германия"
+  },
+  {
+    "country_id": "1206",
+    "city_id": "0",
+    "name": "Голландия"
+  },
+  {
+    "country_id": "2567393",
+    "city_id": "0",
+    "name": "Гондурас"
+  },
+  {
+    "country_id": "277557",
+    "city_id": "0",
+    "name": "Гонконг"
+  },
+  {
+    "country_id": "1258",
+    "city_id": "0",
+    "name": "Греция"
+  },
+  {
+    "country_id": "1280",
+    "city_id": "0",
+    "name": "Грузия"
+  },
+  {
+    "country_id": "1366",
+    "city_id": "0",
+    "name": "Дания"
+  },
+  {
+    "country_id": "2577958",
+    "city_id": "0",
+    "name": "Доминиканская республика"
+  },
+  {
+    "country_id": "1380",
+    "city_id": "0",
+    "name": "Египет"
+  },
+  {
+    "country_id": "1393",
+    "city_id": "0",
+    "name": "Израиль"
+  },
+  {
+    "country_id": "1451",
+    "city_id": "0",
+    "name": "Индия"
+  },
+  {
+    "country_id": "277559",
+    "city_id": "0",
+    "name": "Индонезия"
+  },
+  {
+    "country_id": "277561",
+    "city_id": "0",
+    "name": "Иордания"
+  },
+  {
+    "country_id": "3410238",
+    "city_id": "0",
+    "name": "Ирак"
+  },
+  {
+    "country_id": "1663",
+    "city_id": "0",
+    "name": "Иран"
+  },
+  {
+    "country_id": "1696",
+    "city_id": "0",
+    "name": "Ирландия"
+  },
+  {
+    "country_id": "1707",
+    "city_id": "0",
+    "name": "Испания"
+  },
+  {
+    "country_id": "1786",
+    "city_id": "0",
+    "name": "Италия"
+  },
+  {
+    "country_id": "1894",
+    "city_id": "0",
+    "name": "Казахстан"
+  },
+  {
+    "country_id": "2163",
+    "city_id": "0",
+    "name": "Камерун"
+  },
+  {
+    "country_id": "2172",
+    "city_id": "0",
+    "name": "Канада"
+  },
+  {
+    "country_id": "582029",
+    "city_id": "0",
+    "name": "Карибы"
+  },
+  {
+    "country_id": "2297",
+    "city_id": "0",
+    "name": "Кипр"
+  },
+  {
+    "country_id": "2303",
+    "city_id": "0",
+    "name": "Киргызстан"
+  },
+  {
+    "country_id": "2374",
+    "city_id": "0",
+    "name": "Китай"
+  },
+  {
+    "country_id": "582040",
+    "city_id": "0",
+    "name": "Корея"
+  },
+  {
+    "country_id": "2430",
+    "city_id": "0",
+    "name": "Коста-Рика"
+  },
+  {
+    "country_id": "582077",
+    "city_id": "0",
+    "name": "Куба"
+  },
+  {
+    "country_id": "2443",
+    "city_id": "0",
+    "name": "Кувейт"
+  },
+  {
+    "country_id": "2448",
+    "city_id": "0",
+    "name": "Латвия"
+  },
+  {
+    "country_id": "2505884",
+    "city_id": "0",
+    "name": "Ливан"
+  },
+  {
+    "country_id": "582060",
+    "city_id": "0",
+    "name": "Ливан"
+  },
+  {
+    "country_id": "2509",
+    "city_id": "0",
+    "name": "Ливия"
+  },
+  {
+    "country_id": "2514",
+    "city_id": "0",
+    "name": "Литва"
+  },
+  {
+    "country_id": "2614",
+    "city_id": "0",
+    "name": "Люксембург"
+  },
+  {
+    "country_id": "582041",
+    "city_id": "0",
+    "name": "Македония"
+  },
+  {
+    "country_id": "277563",
+    "city_id": "0",
+    "name": "Малайзия"
+  },
+  {
+    "country_id": "582043",
+    "city_id": "0",
+    "name": "Мальта"
+  },
+  {
+    "country_id": "2617",
+    "city_id": "0",
+    "name": "Мексика"
+  },
+  {
+    "country_id": "582082",
+    "city_id": "0",
+    "name": "Мозамбик"
+  },
+  {
+    "country_id": "2788",
+    "city_id": "0",
+    "name": "Молдова"
+  },
+  {
+    "country_id": "2833",
+    "city_id": "0",
+    "name": "Монако"
+  },
+  {
+    "country_id": "2687701",
+    "city_id": "0",
+    "name": "Монголия"
+  },
+  {
+    "country_id": "582065",
+    "city_id": "0",
+    "name": "Морокко"
+  },
+  {
+    "country_id": "277551",
+    "city_id": "0",
+    "name": "Нидерланды"
+  },
+  {
+    "country_id": "2837",
+    "city_id": "0",
+    "name": "Новая Зеландия"
+  },
+  {
+    "country_id": "2880",
+    "city_id": "0",
+    "name": "Норвегия"
+  },
+  {
+    "country_id": "582051",
+    "city_id": "0",
+    "name": "О.А.Э."
+  },
+  {
+    "country_id": "582105",
+    "city_id": "0",
+    "name": "Остров Мэн"
+  },
+  {
+    "country_id": "582044",
+    "city_id": "0",
+    "name": "Пакистан"
+  },
+  {
+    "country_id": "582046",
+    "city_id": "0",
+    "name": "Перу"
+  },
+  {
+    "country_id": "2897",
+    "city_id": "0",
+    "name": "Польша"
+  },
+  {
+    "country_id": "3141",
+    "city_id": "0",
+    "name": "Португалия"
+  },
+  {
+    "country_id": "3156",
+    "city_id": "0",
+    "name": "Реюньон"
+  },
+  {
+    "country_id": "277555",
+    "city_id": "0",
+    "name": "Румыния"
+  },
+  {
+    "country_id": "5681",
+    "city_id": "0",
+    "name": "США"
+  },
+  {
+    "country_id": "5647",
+    "city_id": "0",
+    "name": "Сальвадор"
+  },
+  {
+    "country_id": "277565",
+    "city_id": "0",
+    "name": "Сингапур"
+  },
+  {
+    "country_id": "582067",
+    "city_id": "0",
+    "name": "Сирия"
+  },
+  {
+    "country_id": "5666",
+    "city_id": "0",
+    "name": "Словакия"
+  },
+  {
+    "country_id": "5673",
+    "city_id": "0",
+    "name": "Словения"
+  },
+  {
+    "country_id": "5678",
+    "city_id": "0",
+    "name": "Суринам"
+  },
+  {
+    "country_id": "9575",
+    "city_id": "0",
+    "name": "Таджикистан"
+  },
+  {
+    "country_id": "277567",
+    "city_id": "0",
+    "name": "Тайвань"
+  },
+  {
+    "country_id": "582050",
+    "city_id": "0",
+    "name": "Тайланд"
+  },
+  {
+    "country_id": "582090",
+    "city_id": "0",
+    "name": "Тунис"
+  },
+  {
+    "country_id": "9638",
+    "city_id": "0",
+    "name": "Туркменистан"
+  },
+  {
+    "country_id": "277569",
+    "city_id": "0",
+    "name": "Туркмения"
+  },
+  {
+    "country_id": "9701",
+    "city_id": "0",
+    "name": "Туркс и Кейкос"
+  },
+  {
+    "country_id": "9705",
+    "city_id": "0",
+    "name": "Турция"
+  },
+  {
+    "country_id": "9782",
+    "city_id": "0",
+    "name": "Уганда"
+  },
+  {
+    "country_id": "9787",
+    "city_id": "0",
+    "name": "Узбекистан"
+  },
+  {
+    "country_id": "9908",
+    "city_id": "0",
+    "name": "Украина"
+  },
+  {
+    "country_id": "10648",
+    "city_id": "0",
+    "name": "Финляндия"
+  },
+  {
+    "country_id": "10668",
+    "city_id": "0",
+    "name": "Франция"
+  },
+  {
+    "country_id": "277553",
+    "city_id": "0",
+    "name": "Хорватия"
+  },
+  {
+    "country_id": "10874",
+    "city_id": "0",
+    "name": "Чехия"
+  },
+  {
+    "country_id": "582031",
+    "city_id": "0",
+    "name": "Чили"
+  },
+  {
+    "country_id": "10904",
+    "city_id": "0",
+    "name": "Швейцария"
+  },
+  {
+    "country_id": "10933",
+    "city_id": "0",
+    "name": "Швеция"
+  },
+  {
+    "country_id": "582064",
+    "city_id": "0",
+    "name": "Эквадор"
+  },
+  {
+    "country_id": "10968",
+    "city_id": "0",
+    "name": "Эстония"
+  },
+  {
+    "country_id": "3661568",
+    "city_id": "0",
+    "name": "ЮАР"
+  },
+  {
+    "country_id": "11002",
+    "city_id": "0",
+    "name": "Югославия"
+  },
+  {
+    "country_id": "11014",
+    "city_id": "0",
+    "name": "Южная Корея"
+  },
+  {
+    "country_id": "582106",
+    "city_id": "0",
+    "name": "Ямайка"
+  },
+  {
+    "country_id": "11060",
+    "city_id": "0",
+    "name": "Япония"
+  }
+]
