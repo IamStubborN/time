@@ -10,7 +10,6 @@
     "geonames.js": "latest",
     "moment": "latest"
   },
-  "homepage": "https://timediff.netlify.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

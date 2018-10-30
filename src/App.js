@@ -35,7 +35,7 @@ class App extends React.Component {
 
     render() {
         return (
-            <div>{this.state.isLoading && <img src="http://localhost:3000/data/1.svg"/>}</div>
+            <div>{this.state.isLoading && <img src="./data/1.svg"/>}</div>
         )
     }
 }
