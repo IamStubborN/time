@@ -8,9 +8,9 @@ class App extends React.Component {
     state = {
         isLoading: false,
         paths: [
-            'http://localhost:3000/data/city.json',
-            'http://localhost:3000/data/region.json',
-            'http://localhost:3000/data/country.json'
+            './data/city.json',
+            './data/localhost:3000/data/region.json',
+            './data/localhost:3000/data/country.json'
         ],
     }
 

@@ -10,7 +10,7 @@
     "geonames.js": "latest",
     "moment": "latest"
   },
-  "homepage": "http://localhost:3000",
+  "homepage": "https://timediff.netlify.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
