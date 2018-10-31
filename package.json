@@ -3,12 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "react-scripts": "^2.1.0",
     "awesomplete": "latest",
     "geonames.js": "latest",
-    "moment": "latest"
+    "moment": "latest",
+    "react": "latest",
+    "react-autocomplete": "^1.8.1",
+    "react-dom": "latest",
+    "react-infinite-autocomplete": "^3.0.0",
+    "react-scripts": "^2.1.0",
+    "react-virtualized": "^9.21.0"
   },
   "scripts": {
     "start": "react-scripts start",

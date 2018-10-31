@@ -34,7 +34,7 @@ function createInputs(data) {
     awesomplete = new Awesomplete(input2);
     awesomplete.list = data;
     input1.addEventListener('awesomplete-selectcomplete', async function (e) {
-        myResult1.innerHTML =refactorResponse(await findCity(e.target.value));
+        myResult1.innerHTML = refactorResponse(await findCity(e.target.value));
     });
 
     input2.addEventListener('awesomplete-selectcomplete', async function (e) {
