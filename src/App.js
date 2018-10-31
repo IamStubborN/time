@@ -1,8 +1,9 @@
 import React from 'react'
+import Awesomplete from "awesomplete"
+import Results from "./comps/Results"
+
 import './awesomplete.css'
 import './App.css'
-import Results from "./comps/Results"
-import Awesomplete from "awesomplete"
 
 class App extends React.Component {
     constructor(props) {
@@ -13,11 +14,14 @@ class App extends React.Component {
             paths: [
                 './data/city.json',
                 './data/region.json',
-                './data/country.json'
+                './data/country.json',
+                './data/countriesNEW.json',
+                './data/regionsNEW.json'
             ],
         }
         this.createDataArray = this.createDataArray.bind(this)
-        App.initAwesomplete = App.initAwesomplete.bind(this)
+        this.handleEnter = this.handleEnter.bind(this)
+        this.initAwesomplete = this.initAwesomplete.bind(this)
     }
 
     createDataArray() {
@@ -34,20 +38,35 @@ class App extends React.Component {
         Promise.all(fetches)
             .then(data => {
                 let temp = Array.from(set)
-                App.initAwesomplete(temp)
+                console.log(temp)
+                this.initAwesomplete(temp)
                 this.setState({isLoading: false, display: 'block'})
             })
     }
 
-    static initAwesomplete(array) {
+    initAwesomplete(array) {
         let input1 = document.getElementById("input1")
         let input2 = document.getElementById("input2")
-        new Awesomplete(input1, {
+        let aw1 = new Awesomplete(input1, {
             list: array
         })
-        new Awesomplete(input2, {
+        let aw2 = new Awesomplete(input2, {
             list: array
         })
+        this.setState({aw1: aw1, aw2: aw2})
+    }
+
+    handleEnter(e) {
+        console.log(e.which)
+        if (e.which === 13) {
+            if (e.currentTarget.id === 'input1') {
+                document.getElementById(e.currentTarget.id).dispatchEvent(new Event('awesomplete-selectcomplete'))
+                this.state.aw1.close();
+            } if (e.currentTarget.id === 'input2') {
+                document.getElementById(e.currentTarget.id).dispatchEvent(new Event('awesomplete-selectcomplete'))
+                this.state.aw2.close();
+            }
+        }
     }
 
     componentDidMount() {
@@ -72,14 +91,17 @@ class App extends React.Component {
                     <div className="cards">
                         <div className="group">
                             <label htmlFor="input1">Ваше положение</label>
-                            <input id="input1" defaultValue="Москва" placeholder={'Введите положение'}/>
-                            <Results id={'input1'}/>
+                            <input id="input1" onKeyPress={this.handleEnter} defaultValue="Москва" placeholder={'Введите положение'}/>
+                            <Results id={'input1'} defaultValue={"Москва"}/>
                         </div>
                         <div className="group">
                             <label htmlFor="input2">Другое положение</label>
-                            <input id="input2" placeholder={'Введите положение'}/>
+                            <input id="input2" onKeyPress={this.handleEnter} placeholder={'Введите положение'}/>
                             <Results id={'input2'}/>
                         </div>
+                    </div>
+                    <div id={'results'}>
+
                     </div>
                 </div>
             </React.Fragment>
