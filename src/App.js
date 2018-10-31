@@ -38,7 +38,6 @@ class App extends React.Component {
         Promise.all(fetches)
             .then(data => {
                 let temp = Array.from(set)
-                console.log(temp)
                 this.initAwesomplete(temp)
                 this.setState({isLoading: false, display: 'block'})
             })
@@ -57,7 +56,6 @@ class App extends React.Component {
     }
 
     handleEnter(e) {
-        console.log(e.which)
         if (e.which === 13) {
             if (e.currentTarget.id === 'input1') {
                 document.getElementById(e.currentTarget.id).dispatchEvent(new Event('awesomplete-selectcomplete'))
