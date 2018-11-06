@@ -1,7 +1,6 @@
 import React, {Component} from 'react'
 
 import Geonames from "geonames.js"
-import Awesomplete from "awesomplete"
 import Moment from "moment"
 import './style.css'
 
@@ -12,7 +11,7 @@ class Results extends Component {
         this.state = {
             result: '',
             geonames: new Geonames({username: 'temp1fsgafg', lan: 'ru', encoding: 'JSON'}),
-            minutesLastValue: 0
+            bool: true
         }
         this.generateResult = this.generateResult.bind(this)
         this.initAwesomplete = this.initAwesomplete.bind(this)
@@ -36,22 +35,31 @@ class Results extends Component {
             self.setState({result: await self.generateResult(input.value)})
         }
         setInterval(() => {
-            let date = new Date()
-            this.updateTime(date)
-        }, 200)
+            this.updateTime()
+        }, 1000)
+        setInterval(() => {
+            this.updateResult()
+        }, 100)
     }
 
-    async updateTime(date) {
+    async updateTime() {
         let result = this.state.result
-        let results = document.getElementById('results')
-        let res1 = document.querySelectorAll('h1')[0].innerText
-        let res2 = document.querySelectorAll('h1')[1].innerText
         if (result) {
             let dateTime = Moment(result, 'HH:mm:ss DD.MM.YYYY')
-            dateTime.set("second", date.getSeconds())
-            dateTime.set("minutes", date.getMinutes())
+            dateTime.add(1, 'seconds')
             this.setState({result: dateTime.format('HH:mm:ss DD.MM.YYYY')})
         }
+    }
+
+    sleep(seconds) {
+        var e = new Date().getTime() + (seconds * 1000);
+        while (new Date().getTime() <= e) {}
+    }
+    
+    async updateResult() {
+        let res1 = document.querySelectorAll('h1')[0].innerText
+        let res2 = document.querySelectorAll('h1')[1].innerText
+        let results = document.getElementById('results')
         if (!isBlank(res1) && !isBlank(res2)) {
             let dateTime1 = Moment(res1, 'HH:mm:ss DD.MM.YYYY')
             let dateTime2 = Moment(res2, 'HH:mm:ss DD.MM.YYYY')
@@ -63,6 +71,7 @@ class Results extends Component {
             return (!str || /^\s*$/.test(str));
         }
     }
+
     async generateResult(e) {
         return await this.refactorResponse(await this.findCity(e))
     }
