@@ -63,7 +63,12 @@ class Results extends Component {
         if (!isBlank(res1) && !isBlank(res2)) {
             let dateTime1 = Moment(res1, 'HH:mm:ss DD.MM.YYYY')
             let dateTime2 = Moment(res2, 'HH:mm:ss DD.MM.YYYY')
-            results.innerText = Math.abs(Moment.duration(dateTime2.diff(dateTime1)).asHours().toFixed(0));
+            let diff = Moment.duration(dateTime2.diff(dateTime1)).asHours().toFixed(0)
+            if (Math.abs(diff) === 0) {
+                results.innerText = Math.abs(diff);
+            } else {
+                results.innerText = diff
+            }
             results.style.display = 'block'
         }
 
