@@ -10,7 +10,7 @@
     "react-autocomplete": "^1.8.1",
     "react-dom": "latest",
     "react-infinite-autocomplete": "^3.0.0",
-    "react-scripts": "^2.1.0",
+    "react-scripts": "^5.0.1",
     "react-virtualized": "^9.21.0"
   },
   "scripts": {
